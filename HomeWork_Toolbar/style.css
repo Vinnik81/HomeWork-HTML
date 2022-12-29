@@ -1,0 +1,47 @@
+.container{
+    width: 310px;
+    height: 440px;
+    background-color: #808080;
+    color: #ffffeb;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    list-style: none;
+    
+}
+
+img{
+    padding: 20px;
+    height: 130px;
+    width: 130px;
+    box-sizing: border-box;
+}
+
+.edit{
+    height: 90px;
+    display: flex;
+    align-items: center; 
+}
+
+.favorites{
+    height: 90px;
+    display: flex;
+    align-items: center; 
+}
+
+.history{
+    height: 90px;
+    display: flex;
+    align-items: center;
+}
+
+.security{
+    height: 90px;
+    display: flex;
+    align-items: center;
+}
+
+.settings{
+    height: 90px;
+    display: flex;
+    align-items: center;
+}
