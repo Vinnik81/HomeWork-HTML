@@ -1,0 +1,31 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f6f6f6;
+    text-align: center;
+    font-weight: bold;
+}
+
+h2{
+    margin-top: 0;
+}
+
+figure{
+    margin: 10px;
+    border: 2px solid #cccccc;
+    border-radius: 20%;
+    padding: 30px;
+    float: left;
+}
+
+figcaption{
+    padding: 10px;
+}
+
+footer{
+    clear: left;
+    padding-top: 2px;
+}
+
+hr{
+    border: 0.1px double #cccccc;
+}
