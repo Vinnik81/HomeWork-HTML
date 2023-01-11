@@ -1,0 +1,127 @@
+.container{
+    width: 1500px;
+    height: 700px;
+    background-color: white;
+    margin: auto;
+}
+
+body{
+    background-color: lightgray;
+}
+
+.header{
+    background-color: #923158;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    padding-left: 50px;
+}
+
+h2{
+    width: 100%;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.menu{
+    background-color: #6e1237;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    padding-left: 50px;
+    margin-top: 10px;
+}
+
+.wrapper{
+ display: flex;
+ justify-content: left;
+
+}
+
+.side{
+    width: 20%;
+}
+
+.aside1{
+    background-color: #b65b80;
+    width: 100%;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    padding-left: 50px;
+    margin: 10px 0;
+}
+
+.aside2{
+    background-color: #b65b80;
+    width: 100%;
+    height: 200px;
+    display: flex;
+    align-items: flex-start;
+    padding-left: 50px;
+}
+
+.main{
+    background-color: #b65b80;
+    width: 60%;
+    height: 350px;
+    padding: 50px;
+    margin: 10px;
+    margin-left: 60px;
+}
+
+.main h2{
+    margin-top: 0;
+}
+
+.aside3{
+    background-color: #b65b80;
+    width: 5%;
+    height: 250px;
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+    writing-mode: vertical-lr;
+    text-orientation: upright;
+}
+
+.aside3 h2{
+    margin-left: 30%;
+}
+
+.section1{
+    background-color: #db92af;
+    width: 100%;
+    height: 40%;
+    display: flex;
+    align-items: flex-start;
+}
+
+.section1 h2{
+    padding-left: 50px;
+    padding-top: 10px;
+}
+
+.section2{
+    background-color: #db92af;
+    margin-top: 10px;
+    width: 100%;
+    height: 40%;
+    display: flex;
+    align-items: flex-start;
+}
+
+.section2 h2{
+    padding-left: 50px;
+    padding-top: 10px;
+}
+
+.footer{
+    background-color: #6e1237;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    padding-left: 50px;
+}
